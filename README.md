@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MatthieuGG
 - 👀 I’m interested in Sports Science
 - 🌱 I’m currently learning Python - Data analysis & machine learning
+- 🏫 Member of https://github.com/OchaUni-Physical-Activity-Measurement
 - 📫 How to reach me: matthieu.gallou.guyot@gmail.com
 
 <!---
